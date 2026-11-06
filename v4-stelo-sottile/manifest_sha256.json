@@ -1,0 +1,26 @@
+[
+  {
+    "file": "gancio_35mm_v4.stl",
+    "sha256": "42781d7f0fd13440e3f5d712c854682f8d3df1368bff58519c3b0702c0f51986"
+  },
+  {
+    "file": "gancio_parametrico_v4.scad",
+    "sha256": "a099c0bafc2464a30e49c5e6e5eab596f8d30ffc87354dfd82b52624b193ad7f"
+  },
+  {
+    "file": "campione_incastro_v3.stl",
+    "sha256": "192eb3dc533c8d95bd5abddc2ef08cc8eefaf5aeb030b903973f8ed15b01b553"
+  },
+  {
+    "file": "LEGGIMI_v4.txt",
+    "sha256": "8193b42b6621862e3b5dff8a2cf713471cf71f6ebba8f2dc1e30b95174ab4252"
+  },
+  {
+    "file": "verifica_mesh_v4.json",
+    "sha256": "94f63833eb27ec833db2d3776a5f5b1ecc9642b47c06843aa0355242114bb367"
+  },
+  {
+    "file": "README.md",
+    "sha256": "0f956f9dc7ea12adffa82c3b29cadbbf7cac78c282950265185b614d4fccedd7"
+  }
+]

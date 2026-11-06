@@ -1,0 +1,12 @@
+GANCIO V4 - sostituisce le versioni precedenti. Unita mm.
+Bordo ripiegato 8 mm, gola 8,8 mm. Altezza esterna 50 mm; apertura interna 44 mm.
+Sporgenza esterna massima 35 mm. Incastro largo 14 mm invariato; stelo largo 13,5 mm e spesso 6,5 mm, con radice rinforzata e punta tonda.
+Uncino interno: dente 1,2 mm, rivolto sotto il bordo superiore interno.
+IPOTESI: faccia inferiore della piega superiore a 47 mm dal fondo del profilo (50-3). La luce verticale sopra il dente e 0,4 mm. Questa quota non e verificata su una sezione reale.
+Il dente restringe localmente l'accesso: provare un inserimento inclinato, senza forzare. Non e garantito un montaggio verticale a scatto. Se non entra o non trattiene, occorre la misura/foto della sezione del bordo; non piegare il metallo o fare leva sul pezzo.
+Stampare prima campione_incastro_v3.stl (ancora valido, incastro identico), con lo stesso materiale e impostazioni finali. Verifica gola e uncino, non la portata.
+L'aggancio occupa 5,4 mm sopra il profilo: controllare che il ripiano possa tornare stabile in piano.
+STAMPA: usare la posizione STL fornita, sul fianco. PETG; ugello 0,4 mm; strato 0,2 mm; 6 perimetri; 6 strati pieni sopra/sotto; infill 40-50%. Temperature secondo filamento. Nessun supporto previsto: controllare anteprima slicer.
+0,5 kg e il carico richiesto e non una portata verificata. Lo stelo piu snello richiede una nuova prova progressiva a 100, 250, 500 g vicino al suolo; fermarsi se flette sempre piu, si muove o presenta crepe. Controllare anche dopo permanenza sotto carico.
+Il dente aiuta la ritenzione solo se si posiziona effettivamente sotto la piega. Non e una chiusura certificata e non impedisce ogni sgancio.
+OpenSCAD: parte="campione" per il test, parte="gancio" per il pezzo completo; F6 poi esporta STL.
