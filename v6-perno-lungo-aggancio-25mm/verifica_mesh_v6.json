@@ -1,0 +1,14 @@
+[
+  {
+    "file": "perno_pieno_25mm_10gradi_v6.stl",
+    "triangles": 1196,
+    "non_manifold_edges": 0,
+    "components": 1,
+    "volume_mm3": 29121.4958503026,
+    "dimensions_mm": [
+      58.12649154663086,
+      55.400001525878906,
+      25.0
+    ]
+  }
+]
